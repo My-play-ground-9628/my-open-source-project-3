@@ -1,1 +1,1 @@
-Add MIT License
+Add MIT License to the new task
